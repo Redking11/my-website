@@ -1,0 +1,36 @@
+html,body{
+background-color: #177679    
+}
+
+
+h1{
+background-color: aqua;    
+}
+.row1{
+display: flex;
+justify-content:space-around;    
+}
+.row2{
+    display: flex;
+    justify-content: center;
+}
+.row3{
+    display: flex;
+    justify-content:space-around;    
+    }
+ .row4{
+ display: flex;
+justify-content:center;    
+ }
+ .row5{
+display: flex;
+justify-content:space-around;    
+ }
+ .row6{
+    display: flex;
+    justify-content:center;    
+    }
+    .row7{
+        display: flex;
+        justify-content:center;    
+        }
